@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: CV.tex
+    template: formatting.tex
 geometry: margin=1in
 
 title: "CV"
