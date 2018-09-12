@@ -46,17 +46,31 @@ degradation. *Journal of Applied Ecology*, doi: 10.1111/1365-2664.13179.
 
 # Research Experience
 
+*Research Assistant, University of California, Davis, Bodega Marine Laboratory* \hfill 2017-present
+
+> Construction and deployment of seagrass field experiments, tank cleaning and maintenance, rocky shore algal and invertebrate surveys, and various other projects.
+
+*Intern, Smithsonian Tropical Research Institute, Panama City, Panama* \hfill 2017
+
+> Compiled and wrote literature review on the role of oxygen in the structure and dynamics of coral reefs.
+
+*Research Assistant, California State University, Northridge, USA* \hfill 2014-2016
+
+> Assisted with the St. John Long-Term Coral Reef Dynamics (NSF-LTREB) and Moorea Coral Reef Long-Term Ecological Research (NSF–LTER) projects through field support, mesocosm measurements and maintenance, and analysis of time series photographs.
+
+*Intern, Smithsonian Tropical Research Institute, Bocas del Toro, Panama* \hfill 2013-2014
+
+> Designed experiments and field surveys to examine resilience of invertebrate communities to coral reef hypoxia event. Also assisted with other reef, mangrove, and seagrass projects.
+
+*NSF REU Program, Whitney Laboratory for Marine Bioscience, St. Augustine, FL, USA* \hfill 2012
+
+> Examined the effects of multiple predators and prey-size preferences on Atlantic oyster populations through field surveys, laboratory feeding trails, and a mesocosm experiment.
+
+*Research Assistant, Leslie Lab, Brown University, Providence, RI, USA, 2012* \hfill 2012
+
+> Assisted Brown-MBL PhD student Sarah Corman process salt marsh core samples for her project entitled "Salt Marsh Responses to Climate Change Impacts."
+
 # Funding
-
-## **Research**
-
-Thesis Support Award, California State University, Northridge ($1000) \hfill 2014
-
-Brown International Scholars Program Award, Brown University ($5000) \hfill 2013
-
-Undergraduate Teaching and Research Award, Brown University ($1500) \hfill 2011
-
-## **Travel**
 
 Graduate Student Association (GSA) Travel Award, University of California, Davis ($500) \hfill 2018
 
@@ -65,6 +79,13 @@ Student Travel & Academic Research (STAR), California State University, Northrid
 Student Travel Award, Council on Ocean Affairs, Science, & Technology (COAST) ($1000) \hfill 2016
 
 Graduate Studies Travel Award, California State University, Northridge ($400) \hfill 2016
+
+Thesis Support Award, California State University, Northridge ($1000) \hfill 2014
+
+Brown International Scholars Program Award, Brown University ($5000) \hfill 2013
+
+Undergraduate Teaching and Research Award, Brown University ($1500) \hfill 2011
+
 
 # Academic Honors & Awards
 
@@ -92,6 +113,9 @@ Best Poster Presentation, REU Program, UF Whitney Laboratory for Marine Bioscien
 
 # Presentations
 
+\vspace{-3mm}
+*\* oral presentation, $\dagger$ poster presentation, $^{\circ}$ co-presenter*
+
 **Nelson HR**, Altieri AH. 2017. Coral reefs: Extreme oxygen environments? *Coastal & Estuarine Research Federation 24th Biennial Conference*. Providence, RI.*
 
 **Nelson HR**, Edmunds PJ. 2016. The role of density-associated processes and shading in the structure and distribution of octocoral communities. *97th Annual Western Society of Naturalists Meeting*. Monterey, CA.*
@@ -109,8 +133,6 @@ Sternberg DR, **Nelson HR**, Edmunds PJ. 2015. Asexual budding and aggregated sp
 **Nelson HR**, Altieri AH, Kuempel CD. 2014. Effects of coral mortality on reef invertebrate communities. *95th Annual Western Society of Naturalists Meeting*. Tacoma, WA.$\dagger$
 
 **Nelson HR**, Griffin J, McCoy M, Silliman B. 2013. Despite resource partition, multiple predators reduce mortality risk for foundation species. *Society for Integrative & Comparative Biology Annual Meeting*. San Francisco, CA.$\dagger$
-
-*\* oral presentation, $\dagger$ poster presentation, $^{\circ}$ co-presenter*
 
 # Teaching Experience
 
@@ -154,6 +176,28 @@ Society for Integrative and Comparative Biology
 
 Participant. 2016. Local-scale ecosystem resilience amid global-scale ocean change: the coral reef example. USGS Powell Center for Analysis and Synthesis. Fort Collins, CO.
 
+# Professional Development
+
+## **Research**
+
+RevBayes Workshop, Center for Population Biology, University of California, Davis \hfill 2018
+
+## **Teaching**
+
+Fall Foundations in Teaching Workshop Series, UC Davis Center for Educational Effectiveness \hfill 2017
+
+California STEM Symposium Attendee, Anaheim, CA \hfill 2015
+
+## **Diversity** 
+
+Diversity 102 Workshop, GradPathways, UC Davis Graduate Studies \hfill 2018
+
+Foundations in LGBTQIA Allyship Training, UC Davis LGBTQIA Resource Center \hfill 2018
+
+UndocuAlly Program for Educators, UC Davis AB540 and Undocumented Center \hfill 2017
+
+Graduate Diversity Orientation Program Extension Workshops, UC Davis \hfill 2017-2018
+
 # Outreach & Community Service
 
 Volunteer facilitator, STEM Stars, Shirley Rominger Intermediate School, Winters, CA \hfill 2018
@@ -183,85 +227,9 @@ Mentor, Calabasas High School Marine Biology Club, Calabasas, CA \hfill 2014-201
 # Skills
 
 \begin{tabbing}
-\textit{Programming:} \= R (advanced), Python (basic), Java (basic) \\ [1.5ex]
+\textit{Programming:} \= R (\textit{advanced}), Python (\textit{basic}), Java (\textit{basic}) \\ [1.5ex]
 \textit{Software:} \> RevBayes, JMP, CPCe, ImageJ, GIS, Adobe Photoshop, Microsoft Office \\ [1.5ex]
-\textit{Scuba Diving:} \> AAUS Scientific Diver (>500 scientific dives), PADI Rescue Diver, CPR, O2, First Aid \\ [1.5ex]
+\textit{Scuba Diving:} \> AAUS Scientific Diver (\textit{>500 scientific dives}), PADI Rescue Diver, CPR, O2, First Aid \\ [1.5ex]
 \textit{Boating:} \> Washington State Boater Education Card, small motorboat operation \\ [1.5ex]
 \end{tabbing}
-
-# EDUCATION
-
-*Yale University*, Ph.D. Mathematics \hfill 1934
-
-*Yale University*, M.S. Mathematics \hfill 1930
-
-*Vassar College*, B.S. Mathematics & Physics \hfill 1928
-
-# EMPLOYMENT
-
-*United States Naval Reserve:*
-
- > Naval Reserve Midshipmen's School \hfill 1943--1944
-
-*Bureau of Ships Computation Project (Harvard):*
-
- > Research Fellow \hfill 1945-1949
- > Lieutenant, Jr Grade \hfill 1944
- 
-*Eckert–Mauchly Computer Corporation:*
-
- >  Senior Mathematician \hfill 1949-–1967
-
-*Navy Programming Languages Group, Navy Office of Information Systems Planning:*
-
- > Director (and promoted to Captain) \hfill 1967--1977  
-
-# TEACHING
-
-*Associate Professor, Mathematics, Vassar* \hfill 1931--1941
-
-> Teach students about math, began career in programming and largely developed design and implementation of a computer compiler.
-  
-*Director, Navy Programming Languages Group* \hfill 1967--1977
-
-> She developed validation software for COBOL and its compiler as part of a COBOL standardization program for the entire Navy. Hopper advocated for the Defense Department to replace large, centralized systems with networks of small, distributed computers. Any user on any computer node could access common databases located on the network. She developed the implementation of standards for testing computer systems and components, most significantly for early programming languages such as FORTRAN and COBOL. The Navy tests for conformance to these standards led to significant convergence among the programming language dialects of the major computer vendors. In the 1980s, these tests (and their official administration) were assumed by the National Bureau of Standards (NBS), known today as the National Institute of Standards and Technology (NIST). (Source: https://en.wikipedia.org/wiki/Grace_Hopper)
-
-# PUBLICATIONS
-
-## **Journal Articles**
-
-G. M. Hopper and O. Ore. 1934. "*New types of irreducibility criteria*." Bull. Amer. Math. Soc. 40 (216). 
-
-
-
-## **Books**
-
-Beyer, Kurt W. 2009. *Grace Hopper and the Invention of the Information Age*. Cambridge, Massachusetts: MIT Press. ISBN 978-0-262-01310-9.
-
-Williams, Kathleen Broome. 2004. *Grace Hopper: Admiral of the Cyber Sea* (1st ed.). Annapolis, Maryland: Naval Institute Press. ISBN 978-1-55750-952-9.
-
-# PUBLIC MEDIA
-
-"Nano-seconds" lecture by Grace Hopper. https://www.youtube.com/watch?v=JEpsKnWZrJ8
-
-
-# AWARDS
-
-**1964**  *Society of Women Engineers Achievement Award*, the Society’s highest honor, “In recognition of her significant contributions to the burgeoning computer industry as an engineering manager and originator of automatic programming systems.”
-
-**1969**  *Data Processing Management Association Man of the Year* (now called the Distinguished Information Sciences Award)
-
-**1973** *Distinguished Fellow of the British Computer Society*. First American and the first woman of any nationality to be given award.
-
-**1982** *American Association of University Women Achievement Award*
-
-**1987** *Computer History Museum Fellow Award Recipient* First to receive this award, for contributions to the development of programming languages, for standardization efforts, and for lifelong naval service.
-
-**1991**: *National Medal of Technology*
-
-**1996**: *USS Hopper (DDG-70) was launched*. Nicknamed Amazing Grace, it is on a very short list of U.S. military vessels named after women.
-
-**2009**: The Department of Energy's National Energy Research Scientific Computing Center named its flagship system "Hopper"
-
-**2016**: Posthumously awarded a *Presidential Medal of Freedom* for her accomplishments in the field of computer science
 
