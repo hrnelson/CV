@@ -37,7 +37,7 @@ urlcolor: blue
 
 # Publications
 
-Edmunds PJ, **Nelson HR**, Bramanti L. 2018. Density-dependence mediates coral community structure. *Ecology* (early view).
+Edmunds PJ, **Nelson HR**, Bramanti L. 2018. Density-dependence mediates coral community structure. *Ecology* (early view)
 
 Guest JR, Edmunds PJ, Gates RD, Kuffner IB, Andersson AJ, Barnes BB, Chollett I, Courtney TA, Elahi R, Gross K, Lenz EA, Mitarai S, Mumby PJ, **Nelson HR**, Parker BA, Putnam HM, Rogers CS, Toth LT. A framework for identifying and characterising coral-reef “oases” against a backdrop of
 degradation. *Journal of Applied Ecology* 55(6):2865-2875
@@ -116,25 +116,27 @@ Best Poster Presentation, REU Program, UF Whitney Laboratory for Marine Bioscien
 \vspace{-3mm}
 *\* oral presentation, $\dagger$ poster presentation, $^{\circ}$ co-presenter*
 
-**Nelson HR**, Altieri AH. 2017. Coral reefs: Extreme oxygen environments? *Coastal & Estuarine Research Federation 24th Biennial Conference*. Providence, RI.*
+**Nelson HR**, Altieri AH. 2017. Coral reefs: Extreme oxygen environments? *Coastal & Estuarine Research Federation 24th Biennial Conference*. Providence, RI*
 
-**Nelson HR**, Edmunds PJ. 2016. The role of density-associated processes and shading in the structure and distribution of octocoral communities. *97th Annual Western Society of Naturalists Meeting*. Monterey, CA.*
+**Nelson HR**, Edmunds PJ. 2016. The role of density-associated processes and shading in the structure and distribution of octocoral communities. *97th Annual Western Society of Naturalists Meeting*. Monterey, CA*
 
-**Nelson HR**, Edmunds PJ. 2016. Allometry and integration constrain Caribbean ocotocoral morphology. *13th International Coral Reef Symposium*. Honolulu, HI.*
+**Nelson HR**, Edmunds PJ. 2016. Allometry and integration constrain Caribbean ocotocoral morphology. *13th International Coral Reef Symposium*. Honolulu, HI*
 
-Sternberg DR, **Nelson HR**, Edmunds PJ. 2015. Asexual budding and aggregated spatial distribution of fungiid corals from disturbed reefs in Moorea, French Polynesia. *Moorea Coral Reef Long Term Ecological Research Site 11th Annual All Investigators Meeting*. Santa Barbara, CA.*$^{\circ}$
+Sternberg DR, **Nelson HR**, Edmunds PJ. 2015. Asexual budding and aggregated spatial distribution of fungiid corals from disturbed reefs in Moorea, French Polynesia. *Moorea Coral Reef Long Term Ecological Research Site 11th Annual All Investigators Meeting*. Santa Barbara, CA*$^{\circ}$
 
-**Nelson HR**, Edmunds PJ. 2015. Allometry and integration constrain Caribbean ocotocoral morphology. *96th Western Society of Naturalists Meeting*. Sacramento, CA.*
+**Nelson HR**, Edmunds PJ. 2015. Allometry and integration constrain Caribbean ocotocoral morphology. *96th Western Society of Naturalists Meeting*. Sacramento, CA*
 
-**Nelson HR**, Altieri AH, Kuempel CD. 2015. Effects of coral mortality on reef invertebrate communities. *California State University, Northridge 19th Annual Student Research and Creative Works Symposium*. Northridge, CA.$\dagger$
+**Nelson HR**, Altieri AH, Kuempel CD. 2015. Effects of coral mortality on reef invertebrate communities. *California State University, Northridge 19th Annual Student Research and Creative Works Symposium*. Northridge, CA$\dagger$
 
-**Nelson HR**, Sternberg DR, and Edmunds PJ. 2015. Asexual budding and aggregated spatial distribution of fungiid corals from disturbed reefs in Moorea, French Polynesia. *9th Long Term Ecological Research All Scientists Meeting*. Estes Park, CO.$\dagger$
+**Nelson HR**, Sternberg DR, and Edmunds PJ. 2015. Asexual budding and aggregated spatial distribution of fungiid corals from disturbed reefs in Moorea, French Polynesia. *9th Long Term Ecological Research All Scientists Meeting*. Estes Park, CO$\dagger$
 
-**Nelson HR**, Altieri AH, Kuempel CD. 2014. Effects of coral mortality on reef invertebrate communities. *95th Annual Western Society of Naturalists Meeting*. Tacoma, WA.$\dagger$
+**Nelson HR**, Altieri AH, Kuempel CD. 2014. Effects of coral mortality on reef invertebrate communities. *95th Annual Western Society of Naturalists Meeting*. Tacoma, WA$\dagger$
 
-**Nelson HR**, Griffin J, McCoy M, Silliman B. 2013. Despite resource partition, multiple predators reduce mortality risk for foundation species. *Society for Integrative & Comparative Biology Annual Meeting*. San Francisco, CA.$\dagger$
+**Nelson HR**, Griffin J, McCoy M, Silliman B. 2013. Despite resource partition, multiple predators reduce mortality risk for foundation species. *Society for Integrative & Comparative Biology Annual Meeting*. San Francisco, CA$\dagger$
 
 # Teaching Experience
+
+Teaching Assistant, Principles of Ecology and Evolution, University of California, Davis \hfill Fall 2018
 
 Graduate Assistant, Biometry, California State University, Northridge \hfill Fall 2015, Fall 2016
 
@@ -180,6 +182,8 @@ Participant. 2016. Local-scale ecosystem resilience amid global-scale ocean chan
 
 ## **Research**
 
+Comparative Genomics Course, Physalia Courses, Berlin, Germany \hfill 2018
+
 RevBayes Workshop, Center for Population Biology, University of California, Davis \hfill 2018
 
 ## **Teaching**
@@ -188,7 +192,7 @@ Fall Foundations in Teaching Workshop Series, UC Davis Center for Educational Ef
 
 California STEM Symposium Attendee, Anaheim, CA \hfill 2015
 
-## **Diversity** 
+## **Diversity & Inclusion** 
 
 Diversity 102 Workshop, GradPathways, UC Davis Graduate Studies \hfill 2018
 
