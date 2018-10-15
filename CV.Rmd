@@ -37,12 +37,12 @@ urlcolor: blue
 
 # Publications
 
-Edmunds PJ, **Nelson HR**, Bramanti L. 2018. Density-dependence mediates coral community structure. *Ecology* (in press).
+Edmunds PJ, **Nelson HR**, Bramanti L. 2018. Density-dependence mediates coral community structure. *Ecology* (early view).
 
 Guest JR, Edmunds PJ, Gates RD, Kuffner IB, Andersson AJ, Barnes BB, Chollett I, Courtney TA, Elahi R, Gross K, Lenz EA, Mitarai S, Mumby PJ, **Nelson HR**, Parker BA, Putnam HM, Rogers CS, Toth LT. A framework for identifying and characterising coral-reef “oases” against a backdrop of
-degradation. *Journal of Applied Ecology*, doi: 10.1111/1365-2664.13179.
+degradation. *Journal of Applied Ecology* 55(6):2865-2875
 
-**Nelson HR**, Kuempel CD, Altieri AH. 2016. The resilience of reef invertebrate biodiversity to coral mortality. *Ecosphere* 7(7): e01399. 
+**Nelson HR**, Kuempel CD, Altieri AH. 2016. The resilience of reef invertebrate biodiversity to coral mortality. *Ecosphere* 7(7): e01399 
 
 # Research Experience
 
