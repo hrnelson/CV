@@ -37,12 +37,13 @@ urlcolor: blue
 
 # Publications
 
-Edmunds PJ, **Nelson HR**, Bramanti L. 2018. Density-dependence mediates coral community structure. *Ecology* (early view)
+**Nelson HR**, Altieri AH. 2019. Oxygen: the universal currency on coral reefs. *Coral Reefs* (early view). https://doi.org/10.1007/s00338-019-01765-0
 
-Guest JR, Edmunds PJ, Gates RD, Kuffner IB, Andersson AJ, Barnes BB, Chollett I, Courtney TA, Elahi R, Gross K, Lenz EA, Mitarai S, Mumby PJ, **Nelson HR**, Parker BA, Putnam HM, Rogers CS, Toth LT. A framework for identifying and characterising coral-reef “oases” against a backdrop of
-degradation. *Journal of Applied Ecology* 55(6):2865-2875
+Edmunds PJ, **Nelson HR**, Bramanti L. 2018. Density-dependence mediates coral community structure. *Ecology* 99(11):2605-2613. https://doi.org/10.1002/ecy.2511
 
-**Nelson HR**, Kuempel CD, Altieri AH. 2016. The resilience of reef invertebrate biodiversity to coral mortality. *Ecosphere* 7(7): e01399 
+Guest JR, Edmunds PJ, Gates RD, Kuffner IB, Andersson AJ, Barnes BB, Chollett I, Courtney TA, Elahi R, Gross K, Lenz EA, Mitarai S, Mumby PJ, **Nelson HR**, Parker BA, Putnam HM, Rogers CS, Toth LT. A framework for identifying and characterising coral-reef “oases” against a backdrop of degradation. *Journal of Applied Ecology* 55(6):2865-2875. https://doi.org/10.1111/1365-2664.13179
+
+**Nelson HR**, Kuempel CD, Altieri AH. 2016. The resilience of reef invertebrate biodiversity to coral mortality. *Ecosphere* 7(7):e01399. https://doi.org/10.1002/ecs2.1399
 
 # Research Experience
 
@@ -116,6 +117,8 @@ Best Poster Presentation, REU Program, UF Whitney Laboratory for Marine Bioscien
 \vspace{-3mm}
 *\* oral presentation, $\dagger$ poster presentation, $^{\circ}$ co-presenter*
 
+**Nelson HR**. 2018. The evolution of coloniality in ascidians. *University of California, Davis, Population Biology Graduate Group Annual Student Symposium*. Davis, CA*
+
 **Nelson HR**, Altieri AH. 2017. Coral reefs: Extreme oxygen environments? *Coastal & Estuarine Research Federation 24th Biennial Conference*. Providence, RI*
 
 **Nelson HR**, Edmunds PJ. 2016. The role of density-associated processes and shading in the structure and distribution of octocoral communities. *97th Annual Western Society of Naturalists Meeting*. Monterey, CA*
@@ -135,6 +138,8 @@ Sternberg DR, **Nelson HR**, Edmunds PJ. 2015. Asexual budding and aggregated sp
 **Nelson HR**, Griffin J, McCoy M, Silliman B. 2013. Despite resource partition, multiple predators reduce mortality risk for foundation species. *Society for Integrative & Comparative Biology Annual Meeting*. San Francisco, CA$\dagger$
 
 # Teaching Experience
+
+Teaching Assistant, Marine Ecology, University of California, Davis \hfill Winter 2019
 
 Teaching Assistant, Principles of Ecology and Evolution, University of California, Davis \hfill Fall 2018
 
@@ -182,6 +187,8 @@ Participant. 2016. Local-scale ecosystem resilience amid global-scale ocean chan
 
 ## **Research**
 
+Ensembl Browser Workshop, Bioinformatics Core, University of California, Davis \hfill 2019
+
 Comparative Genomics Course, Physalia Courses, Berlin, Germany \hfill 2018
 
 RevBayes Workshop, Center for Population Biology, University of California, Davis \hfill 2018
@@ -193,6 +200,8 @@ Fall Foundations in Teaching Workshop Series, UC Davis Center for Educational Ef
 California STEM Symposium Attendee, Anaheim, CA \hfill 2015
 
 ## **Diversity & Inclusion** 
+
+Mental Health Gatekeeper Training, UC Davis \hfill 2018
 
 Diversity 102 Workshop, GradPathways, UC Davis Graduate Studies \hfill 2018
 
@@ -228,12 +237,12 @@ Guest lecturer, Virgin Islands Environmental Resource Station, St. John, USVI \h
 
 Mentor, Calabasas High School Marine Biology Club, Calabasas, CA \hfill 2014-2015
 
-# Skills
+<!-- # Skills -->
 
-\begin{tabbing}
-\textit{Programming:} \= R (\textit{advanced}), Python (\textit{basic}), Java (\textit{basic}) \\ [1.5ex]
-\textit{Software:} \> RevBayes, JMP, CPCe, ImageJ, GIS, Adobe Photoshop, Microsoft Office \\ [1.5ex]
-\textit{Scuba Diving:} \> AAUS Scientific Diver (\textit{>500 scientific dives}), PADI Rescue Diver, CPR, O2, First Aid \\ [1.5ex]
-\textit{Boating:} \> Washington State Boater Education Card, small motorboat operation \\ [1.5ex]
-\end{tabbing}
+<!-- \begin{tabbing} -->
+<!-- \textit{Programming:} \= R (\textit{advanced}), Python (\textit{basic}), Java (\textit{basic}) \\ [1.5ex] -->
+<!-- \textit{Software:} \> RevBayes, JMP, CPCe, ImageJ, GIS, Adobe Photoshop, Microsoft Office \\ [1.5ex] -->
+<!-- \textit{Scuba Diving:} \> AAUS Scientific Diver (\textit{>500 scientific dives}), PADI Rescue Diver, CPR, O2, First Aid \\ [1.5ex] -->
+<!-- \textit{Boating:} \> Washington State Boater Education Card, small motorboat operation \\ [1.5ex] -->
+<!-- \end{tabbing} -->
 
