@@ -37,7 +37,7 @@ urlcolor: blue
 
 # Publications
 
-**Nelson HR**, Altieri AH. 2019. Oxygen: the universal currency on coral reefs. *Coral Reefs* (early view). https://doi.org/10.1007/s00338-019-01765-0
+**Nelson HR**, Altieri AH. 2019. Oxygen: the universal currency on coral reefs. *Coral Reefs* 38(2):177-198. https://doi.org/10.1007/s00338-019-01765-0
 
 Edmunds PJ, **Nelson HR**, Bramanti L. 2018. Density-dependence mediates coral community structure. *Ecology* 99(11):2605-2613. https://doi.org/10.1002/ecy.2511
 
@@ -72,6 +72,10 @@ Guest JR, Edmunds PJ, Gates RD, Kuffner IB, Andersson AJ, Barnes BB, Chollett I,
 > Assisted Brown-MBL PhD student Sarah Corman process salt marsh core samples for her project entitled "Salt Marsh Responses to Climate Change Impacts."
 
 # Funding
+
+Center for Population Biology Research Award, University of California, Davis ($700) \hfill 2019
+
+XSEDE Startup Grant, National Science Foundation ($909.50) \hfill 2019
 
 Graduate Student Association (GSA) Travel Award, University of California, Davis ($500) \hfill 2018
 
@@ -115,9 +119,11 @@ Best Poster Presentation, REU Program, UF Whitney Laboratory for Marine Bioscien
 # Presentations
 
 \vspace{-3mm}
-*\* oral presentation, $\dagger$ poster presentation, $^{\circ}$ co-presenter*
+*\* oral presentation, $\dagger$ poster presentation, $^{\circ}$ co-presenter*, $\diamond$ invited speaker
 
-**Nelson HR**. 2018. The evolution of coloniality in ascidians. *University of California, Davis, Population Biology Graduate Group Annual Student Symposium*. Davis, CA*
+**Nelson HR**. 2019. STEM Outreach: Middle School. *Science Outreach: How to Increase the Impact of Your Work Workshop, University of California, Davis*. Davis, CA*$\diamond$
+
+**Nelson HR**. 2018. The evolution of coloniality in ascidians. *Population Biology Graduate Group Annual Student Symposium, University of California, Davis*. Davis, CA*
 
 **Nelson HR**, Altieri AH. 2017. Coral reefs: Extreme oxygen environments? *Coastal & Estuarine Research Federation 24th Biennial Conference*. Providence, RI*
 
@@ -159,7 +165,7 @@ Equity in Science, Technology, Engineering, Math, and Entrepreneurship, Universi
 
 Biology Alumni Association Board, California State University, Northridge
 
-> *Student Liason* (2016)
+> *Student Liaison* (2016)
 
 Women in Science Club, California State University, Northridge
 
@@ -213,17 +219,25 @@ Graduate Diversity Orientation Program Extension Workshops, UC Davis \hfill 2017
 
 # Outreach & Community Service
 
-Volunteer facilitator, STEM Stars, Shirley Rominger Intermediate School, Winters, CA \hfill 2018
+Volunteer station leader, Picnic Day, Evolution & Ecology Department, UC Davis \hfill 2019
 
-Coordinator/Co-founder, STEM Squad, Winters Middle School, Winters, CA \hfill 2017-present
+Volunteer ambassador, Team Graduate School, UC Davis \hfill 2019
+
+Coordinator/co-founder, STEM Squad, Winters Middle School, Winters, CA \hfill 2018-present
 
 >  https://estemestemsquad.weebly.com/ 
 
-Coordinator/Co-founder, Girls in Science & Technology Club, Portola Middle School, Tarzana, CA \hfill 2016
+Volunteer station leader, STEM Stars, Shirley Rominger Intermediate School, Winters, CA \hfill 2018-2019
 
->  https://gistclub.weebly.com/  
+Volunteer teaching assistant, Visualizing and Mapping Bioassessment Data in R, 25th Annual Meeting of California Aquatic Bioassessment Workgroup, UC Davis \hfill 2018
 
-Volunteer facilitator, 7th grade field trip to Lake Solano, Winters Middle School, Winters, CA \hfill 2018
+Volunteer facilitator, Creek Science Investigations, Putah Creek Council, Winters, CA \hfill 2018
+
+Volunteer scientist, Family STEAM Night, John Barrett Middle School, Carmichael, CA \hfill 2017-2018
+
+Coordinator/co-founder, Girls in Science & Technology Club, Portola Middle School, Tarzana, CA \hfill 2016
+
+>  https://gistclub.weebly.com/ 
 
 Volunteer presenter, Multnomah Elementary School Career Day, Los Angeles, CA \hfill 2016
 
