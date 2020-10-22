@@ -37,6 +37,10 @@ urlcolor: blue
 
 # Publications
 
+Courtney TA, Barnes BB, Chollett I, Elahi R, Gross K, Guest JR, Kuffner IB, Lenz EA, **Nelson HR**, Rogers, CS, Toth LT, Andersson AJ. 2020. Disturbances drive changes in coral community assemblages and coral calcification capacity. *Ecosphere* 11(4):e03066. https://doi.org/10.1002/ecs2.3066
+
+Altieri AH, **Nelson HR**, Gedan KB. 2019. The significance of ocean deoxygenation for tropical ecosystems-corals, seagrasses, and mangroves. In D. Laffoley & JM Baxter (Eds.), *Ocean Deoxygenation–Everyone's Problem: Causes, Impacts, Consequences and Solutions* (pp. 401-429). International Union for Conservation of Nature and Natural Resources. Gland, Switzerland. https://doi.org/10.2305/IUCN.CH.2019.13.en
+
 **Nelson HR**, Altieri AH. 2019. Oxygen: the universal currency on coral reefs. *Coral Reefs* 38(2):177-198. https://doi.org/10.1007/s00338-019-01765-0
 
 Edmunds PJ, **Nelson HR**, Bramanti L. 2018. Density-dependence mediates coral community structure. *Ecology* 99(11):2605-2613. https://doi.org/10.1002/ecy.2511
@@ -73,7 +77,13 @@ Guest JR, Edmunds PJ, Gates RD, Kuffner IB, Andersson AJ, Barnes BB, Chollett I,
 
 # Funding
 
+Center for Population Biology Research Award, University of California, Davis ($2244) \hfill 2020
+
+Center for Population Biology Supplement for Citizen Science & Outreach Award, University of California, Davis ($500) \hfill 2020
+
 Center for Population Biology Research Award, University of California, Davis ($700) \hfill 2019
+
+Center for Population Biology Supplement for Citizen Science & Outreach Award, University of California, Davis ($350) \hfill 2019
 
 XSEDE Startup Grant, National Science Foundation ($909.50) \hfill 2019
 
@@ -93,6 +103,8 @@ Undergraduate Teaching and Research Award, Brown University ($1500) \hfill 2011
 
 
 # Academic Honors & Awards
+
+Best Paper Award, Coral Reefs, Journal of the International Coral Reef Society \hfill 2019 
 
 Golden Key International Honour Society, University of California, Davis \hfill 2018
 
@@ -118,8 +130,12 @@ Best Poster Presentation, REU Program, UF Whitney Laboratory for Marine Bioscien
 
 # Presentations
 
-\vspace{-3mm}
+\vspace{-2mm}
 *\* oral presentation, $\dagger$ poster presentation, $^{\circ}$ co-presenter*, $\diamond$ invited speaker
+
+**Nelson, HR**. 2020. From Trees to Octocorals: The Role of Phenotypic Integration in Underwater Animal Forests. *Biology Research Seminar Course (NSM90), California State University, Sacramento*. Sacramento, CA*$\diamond$
+
+**Nelson HR**. 2020. STEM Outreach: Middle School. *Science Communication Tools for the Modern Era Course (ANB290), University of California, Davis*. Davis, CA*$\diamond$
 
 **Nelson HR**. 2019. STEM Outreach: Middle School. *Science Outreach: How to Increase the Impact of Your Work Workshop, University of California, Davis*. Davis, CA*$\diamond$
 
@@ -145,11 +161,19 @@ Sternberg DR, **Nelson HR**, Edmunds PJ. 2015. Asexual budding and aggregated sp
 
 # Teaching Experience
 
+Associate Instructor, Introductory Biology Co-Class, University of California, Davis \hfill Fall 2020
+
+Instructor, BUSP Biology Boot Camp, University of California, Davis \hfill Summer 2020
+
+Teaching Assistant, Introductory Biology Co-Class, University of California, Davis \hfill Spring 2020
+
 Teaching Assistant, Marine Ecology, University of California, Davis \hfill Winter 2019
 
-Teaching Assistant, Principles of Ecology and Evolution, University of California, Davis \hfill Fall 2018
+Teaching Assistant, BUSP Biology Boot Camp, University of California, Davis \hfill Summer 2019 
 
-Graduate Assistant, Biometry, California State University, Northridge \hfill Fall 2015, Fall 2016
+Teaching Assistant, Principles of Ecology and Evolution, University of California, Davis \hfill Fall 2018, 2019
+
+Graduate Assistant, Biometry, California State University, Northridge \hfill Fall 2015, 2016
 
 Peer Learning Facilitator, Evolutionary Biology, California State University, Northridge \hfill Fall 2016
 
@@ -159,9 +183,17 @@ Peer Learning Facilitator, Biological Principles, California State University, N
 
 ## **Academic Organizations**
 
+Teaching Assistant Consulting Fellows, Center for Educational Effectiveness, University of California, Davis
+
+> *Program Improvement Lead* (2020-present), *Graduate Teaching Fellow* (2019-present)
+
+Graduate Teaching Community, Center for Educational Effectiveness, University of California, Davis
+
+> *Facilitator* (2020-present)
+
 Equity in Science, Technology, Engineering, Math, and Entrepreneurship, University of California, Davis
 
-> *Vice President of Outreach* (2018-present), *STEM Squad Coordinator* (2017-present)
+> *Vice President of Outreach* (2018-2019), *STEM Squad Coordinator* (2017-present)
 
 Biology Alumni Association Board, California State University, Northridge
 
@@ -201,11 +233,15 @@ RevBayes Workshop, Center for Population Biology, University of California, Davi
 
 ## **Teaching**
 
+Inclusive and Accurate Approaches for Teaching Sex and Gender in Biology, Project Biodiversify Workshop, UC Davis \hfill 2020
+
 Fall Foundations in Teaching Workshop Series, UC Davis Center for Educational Effectiveness \hfill 2017
 
 California STEM Symposium Attendee, Anaheim, CA \hfill 2015
 
 ## **Diversity & Inclusion** 
+
+Diversity in STEM Conference Panelist & Attendee, UC Davis \hfill 2020
 
 Mental Health Gatekeeper Training, UC Davis \hfill 2018
 
@@ -218,6 +254,12 @@ UndocuAlly Program for Educators, UC Davis AB540 and Undocumented Center \hfill 
 Graduate Diversity Orientation Program Extension Workshops, UC Davis \hfill 2017-2018
 
 # Outreach & Community Service
+
+Organizer, Evolution & Ecology Graduate School Preview Series, UC Davis \hfill 2020
+
+> https://eegradpreview.weebly.com/
+
+Panelist, Graduate School Experience Panel, Diversity in STEM Conference, UC Davis \hfill 2020 
 
 Volunteer station leader, Picnic Day, Evolution & Ecology Department, UC Davis \hfill 2019
 
